@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+    background-image: url("https://i.pinimg.com/564x/61/ef/85/61ef85e60d2237dd3eb5c2a685e941cd.jpg");
+    backgroud-repeat:no-repeat;
+    backgroud-size:cover;
+    margin-right: 200px;
+    background-attachment:scroll ;
+}
+
+#p1{
+ background-color: bisque;
+}
+#p2{
+    background-color: antiquewhite;
+}
+#p3{
+    background-color: azure;
+}
+#p4{
+    background-color: blanchedalmond;
+}
+#p5{
+    font-family: courier; background-color: aliceblue;
+}
+#p6{
+    font-size: 300%; background-color: blanchedalmond;
+}
+ 
+ 
